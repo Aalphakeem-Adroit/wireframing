@@ -77,4 +77,22 @@ Figma is highly recommended for wireframing due to its:
 - **Components and templates** – Reusable design elements save time and maintain consistency.  
 - **Integration with prototyping** – Wireframes can be easily transformed into clickable prototypes to simulate user flows.  
 
-Figma’s flexibility and accessibility make it one of the most powerful tools for translating requirements into clear visual wireframes.  
+Figma’s flexibility and accessibility make it one of the most powerful tools for translating requirements into clear visual wireframes.
+
+## Benefits of Wireframing in Software Development  
+
+Wireframing plays a crucial role in the software development process by providing a visual blueprint of the system before actual coding begins. Some key benefits include:  
+
+- **Guides the Design Process**  
+  Wireframes act as the foundation for UI/UX design. For example, in the booking management system, wireframing the **search and checkout flows** ensures that designers focus on usability and intuitive navigation before adding visual polish.  
+
+- **Facilitates Clear Communication**  
+  Wireframes make it easier for developers, designers, product managers, and stakeholders to stay aligned. Instead of lengthy requirement documents, a simple wireframe of the **room selection process** communicates the intended flow to everyone on the team.  
+
+- **Identifies Issues Early**  
+  By mapping out features like **login, booking, and payment**, potential usability or logical issues can be spotted and resolved at the planning stage, saving time and development costs later.  
+
+- **Keeps Stakeholders Engaged**  
+  Stakeholders can interact with low-fidelity wireframes of the booking system to provide feedback. This ensures the final product reflects the actual needs of the users and the business.  
+
+In short, wireframes bridge the gap between **requirement analysis and design implementation**, ensuring the project stays on track from both technical and user-experience perspectives.
