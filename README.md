@@ -33,3 +33,30 @@ By focusing on the “skeleton” of a product, wireframing ensures a strong fou
    *Example:* A login form with input fields for *username* and *password* demonstrates where users enter data and how they access personalized content.  
 
 These elements work together to provide clarity, guide user behavior, and establish a foundation for effective and efficient product design.
+
+
+## Types of Wireframes
+
+1. **Low-Fidelity Wireframes**  
+   - **Description:** Simple sketches or digital outlines with basic shapes and placeholders. They avoid design details and focus only on structure and functionality.  
+   - **When to Use:** Early in the design process to brainstorm ideas, validate layouts, and gather quick feedback without worrying about aesthetics.  
+   - **Example:** Boxes for images, lines for text, and rough placement of buttons.  
+
+2. **High-Fidelity Wireframes**  
+   - **Description:** Detailed representations that include actual text, images, typography, and sometimes interactive elements. They closely resemble the final product design.  
+   - **When to Use:** Later in the design process to refine details, test usability, and share with stakeholders or developers before moving into prototyping.  
+   - **Example:** Screens with realistic content, styled buttons, navigation menus, and forms.  
+
+---
+
+## Wireframe Example
+
+![Wireframe Exmaple](wireframe_example.png)
+
+The attached image represents a **High-Fidelity Wireframe**.  
+It includes detailed mobile app screens such as splash, sign-in, login, home feed, detailed listings, and reservation pages. These wireframes go beyond simple layouts — they showcase real text, structured content, icons, and functional buttons, making them closer to the final product.  
+
+This type of wireframe is typically used to:  
+- Communicate the full user flow across multiple screens.  
+- Demonstrate interactions like signing in, joining, browsing listings, and making reservations.  
+- Test usability and gather feedback from stakeholders or potential users before moving into development.  
