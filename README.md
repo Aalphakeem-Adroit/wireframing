@@ -59,4 +59,22 @@ It includes detailed mobile app screens such as splash, sign-in, login, home fee
 This type of wireframe is typically used to:  
 - Communicate the full user flow across multiple screens.  
 - Demonstrate interactions like signing in, joining, browsing listings, and making reservations.  
-- Test usability and gather feedback from stakeholders or potential users before moving into development.  
+- Test usability and gather feedback from stakeholders or potential users before moving into development.
+
+## Popular Wireframing Tools  
+
+There are several tools available to create effective wireframes. Some of the most widely used include:  
+
+- **Balsamiq** – Great for low-fidelity wireframes with a sketch-like feel.  
+- **Adobe XD** – Offers both wireframing and prototyping with interactive elements.  
+- **Sketch** – Popular among designers for macOS, used for UI/UX design.  
+- **Figma** – A web-based collaborative tool for designing wireframes, mockups, and prototypes.  
+
+### Why Figma?  
+Figma is highly recommended for wireframing due to its:  
+- **Collaboration features** – Multiple team members can design and comment in real-time.  
+- **Cross-platform support** – Works seamlessly on Windows, macOS, Linux, and directly in the browser.  
+- **Components and templates** – Reusable design elements save time and maintain consistency.  
+- **Integration with prototyping** – Wireframes can be easily transformed into clickable prototypes to simulate user flows.  
+
+Figma’s flexibility and accessibility make it one of the most powerful tools for translating requirements into clear visual wireframes.  
